@@ -178,10 +178,10 @@
 	    // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
 	    var mapOptions = {
 	        // How zoomed in you want the map to start at (always required)
-	        zoom: 11,
+	        zoom: 9,
 
 	        // The latitude and longitude to center the map (always required)
-	        center: new google.maps.LatLng(40.6700, -73.9400),
+	        center: new google.maps.LatLng(37.8197013,-122.0564885),
 
 	        scrollwheel: false,
 
