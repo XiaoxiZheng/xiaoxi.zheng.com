@@ -2739,7 +2739,7 @@ h4.package {
 @media (max-width:375px) {
 	.home {
         height: auto;
-		position: relative;
+		    position: fixed;
     }
     .menu4 .home {
         height: 100vh;
